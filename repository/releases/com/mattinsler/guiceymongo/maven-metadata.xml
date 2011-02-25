@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.mattinsler</groupId>
-  <artifactId>guiceytools</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <artifactId>guiceymongo</artifactId>
+  <version>0.2</version>
   <versioning>
     <versions>
-      <version>0.2-SNAPSHOT</version>
       <version>0.2</version>
     </versions>
-    <lastUpdated>20110212080729</lastUpdated>
+    <lastUpdated>20110217173308</lastUpdated>
   </versioning>
 </metadata>
