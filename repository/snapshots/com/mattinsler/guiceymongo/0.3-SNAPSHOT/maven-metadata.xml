@@ -2,13 +2,11 @@
 <metadata>
   <groupId>com.mattinsler</groupId>
   <artifactId>guiceymongo</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.3-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.2-SNAPSHOT</version>
-      <version>0.2</version>
-      <version>0.3-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20110606021713</lastUpdated>
   </versioning>
 </metadata>
